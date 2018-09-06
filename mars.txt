@@ -2,4 +2,8 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 Venus would also be a suitable place for a base
+<<<<<<< HEAD
 We added a diffrent line in the other copy
+=======
+This line added to wolfsman's copy
+>>>>>>> 603f6cc2223db0b549b4701a94bd8def2fcc96fe
